@@ -43,11 +43,6 @@
   <img src="https://profile-counter.glitch.me/0xABDARIF/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/0xABDARIF/0xABDARIF/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/oJYcGZYvl5EAAAAC/the-eminence-in-shadow-the-eminence-of-shadow.gif"  />
