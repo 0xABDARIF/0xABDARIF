@@ -31,18 +31,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xABDARIF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xABDARIF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=0xABDARIF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=0xABDARIF&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xABDARIF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=140&theme=dracula&hide_border=true&order=2" height="140" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=0xABDARIF&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=0xABDARIF&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=0xABDARIF&theme=dracula&column=-1&row=1&margin-w=5&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0xABDARIF/count.svg?"  />
-</div>
-
 
 <div align="center">
   <img height="200" src="https://media1.tenor.com/m/oJYcGZYvl5EAAAAC/the-eminence-in-shadow-the-eminence-of-shadow.gif"  />
