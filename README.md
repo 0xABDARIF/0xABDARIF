@@ -4,6 +4,9 @@
 
 <p align="left">My name is 0xABDARIF and I'am Programmer, from Morocco</p>
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/0xABDARIF/count.svg?"  />
+</div>
 ###
 
 <h2 align="left">I code with</h2>
